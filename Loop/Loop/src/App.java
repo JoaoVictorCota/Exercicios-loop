@@ -88,7 +88,7 @@ public class App {
             while (adivinha !=numeroSortido  );
         System.out.println(" Voce acertou o numero sorteado foi: " + numeroSortido + " " + "Voce teve " + (chances++));
 
-        
+        System.out.println("Deu certo");
 
 
         
